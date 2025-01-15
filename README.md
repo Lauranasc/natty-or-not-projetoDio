@@ -10,11 +10,11 @@ O projeto consiste na criação de um vídeo utilizando IA generativa para explo
 • IA Generativa CapCut para sintetização de voz, geração de avatar virtual e edição;
 
 ## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. 
-O "CapCut" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. Além disso, a edição tambem foi realizada no CapCut para garantir melhor experiência.
+Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. A ferramenta "CapCut" foi essencial para criar um avatar virtual e para a execução da conversão de texto em fala, ou seja, Text to Speech. Além disso, a edição também foi realizada no "CapCut" para garantir uma melhor experiência.
 
 ## 🚀 Resultados
-Link
+Link do vídeo:
+https://youtube.com/shorts/qp04affJS_E?feature=share
 
 ## 💭 Reflexão (Opcional)
-Este projeto foi uma experiência incrívelmente nova e surpeendente, onde pude explorar mais desse universo novo e vasto das IAs Generativas, para criar uma narrativa poderosa, cativante e envolvente.
+Este projeto foi uma experiência incrívelmente nova e surpeendente, onde pude explorar o mundo novo e vasto das IAs Generativas, para criar uma narrativa poderosa, informativa e envolvente.
