@@ -6,6 +6,7 @@ O projeto consiste na criação de um vídeo utilizando IA generativa para explo
 
 ## 🤖 Tecnologias Utilizadas
 • IA Generativa ChatGPT para roteirização;
+
 • IA Generativa CapCut para sintetização de voz, geração de avatar virtual e edição;
 
 ## 🧐 Processo de Criação
